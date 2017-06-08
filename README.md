@@ -24,6 +24,9 @@ Para el desarrollo de este proyecto utilizaremos la herramienta para diseñar si
 
 El sistema de audio diseñado para el presente proyecto fue el siguiente:
 
+![Audio System Design Tool](https://raw.githubusercontent.com/SETISAEDU/Reproductor-de-audio-con-Teensy-3.6/master/Design%20tool.jpg)
+
+
 El código generado se anexo al programa llamado `Reproductor.ino` que sera el programa que se cargará a la tarjeta Teensy 3.6
 
 
