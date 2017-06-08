@@ -14,6 +14,8 @@ SPI utiliza una solución síncrona, porque utiliza unas líneas diferentes para
 
 Para controlar el bus SPI es necesario usar los pines que específica cada tarjeta que este utilizando. Para la tarjeta Teensy 3.6 se ha utlizado los pines SCK2, MISO2, MOSI2, CS2. 
 
+![Pines designado a la comunicacion SPI](https://raw.githubusercontent.com/SETISAEDU/Reproductor-de-audio-con-Teensy-3.6/master/card9b_rev1.png)
+
 
 
 ## Diseño de sistemas de audio.
