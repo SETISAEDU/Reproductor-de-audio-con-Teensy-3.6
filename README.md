@@ -1,6 +1,6 @@
 # Reproductor-de-audio-con-Teensy-3.6
 
-El desarrollo de este proyecto consiste en reproducir diferentes audios desde la tarjeta de desarrollo Teensy 3.6, donde hacemos uso de sus salidas analogicas DAC para obtener sonido estério. Ademas se utilizara la ranura micro SD integrado en la tarjeta Teensy 3.6 Para insertar una memoria micro SD que contendrá los archivos de audio que serán reproducidos.
+El desarrollo de este proyecto consiste en reproducir diferentes audios desde la tarjeta de desarrollo Teensy 3.6, donde hacemos uso de sus salidas analógicas DAC para obtener sonido estéreo. Además se utilizara la ranura micro SD integrado en la tarjeta Teensy 3.6 Para insertar una memoria micro SD que contendrá los archivos de audio que serán reproducidos.
 
 ## Comunicación entre una memoria micro SD y un microcontrolador.
 
